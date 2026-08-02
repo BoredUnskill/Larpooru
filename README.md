@@ -1,3 +1,4 @@
+(DISCLAIMER! Yes, this shit is made with AI, cuz' i a dummy who can't code. Maybe i will make another fork in future, but not now. If you hate AI, just don't use it, lol)
 # Larpooru
 
 Super-fast, lightweight flat-file Booru software, fork of [Xenooru](https://github.com/s-vhs/Xenooru/). Kept very minimalistic and simple but highly customizable and extendable.
