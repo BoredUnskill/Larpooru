@@ -34,7 +34,8 @@ For support, email me at [thencametears@yandex.com](mailto:thencametears@yandex.
 
 ## Demo
 
-[x3n00ru.h33t.moe](https://x3n00ru.h33t.moe) - Official Dead Instance of original Xenooru
+[x3n00ru.h33t.moe](https://x3n00ru.h33t.moe) - Official Dead Instance of original Xenooru.
+
 [lainxg.xo.je](https://lainxg.xo.je) - My Instance Of Larpooru
 
 ## License
