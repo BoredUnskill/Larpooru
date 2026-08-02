@@ -9,8 +9,8 @@
         {$lang.media_copyright_by_their_respective_owners}
     </p>
     <p>
-        {$lang.proudly_powered_by} <a href="https://github.com/s-vhs/Xenooru" target="_blank"
-            class="underline hover:text-red-300">Xenooru</a>
+        {$lang.proudly_powered_by} <a href="https://github.com/BoredUnskill/Larpooru" target="_blank"
+            class="underline hover:text-red-300">Larpooru (a fork of Xenooru)</a>
     </p>
     <p>
         {$lang.developed_by} <a href="https://github.com/s-vhs" target="_blank"
@@ -19,6 +19,9 @@
         <a href="https://github.com/s-vhs/Xenooru/graphs/contributors" target="_blank"
             class="underline hover:text-red-300">{$lang.the_team}</a>
     </p>
+    <p>
+       <a>Forked by</a>
+       <a href="https://github.com/BoredUnskill" target="_blank" class="underline hover:text-red-300">BoredUnskill</a>
     <p>
         {$lang.content_loaded_in} {$loadingtime} {$lang.seconds}
     </p>
