@@ -104,6 +104,29 @@
                     <li>
                         <a href="comments.php" class="mx-1 hover:text-red-200">{$lang.all_comments}</a>
                     </li>
+                {elseif $pages.isTags}
+                    <li>
+                        <a href="tags.php" class="mx-1 hover:text-red-200">{$lang.tags}</a>
+                    </li>
+                    <li>
+                        <a href="tags.php?category=tag" class="mx-1 hover:text-red-200">{$lang.general}</a>
+                    </li>
+                    <li>
+                        <a href="tags.php?category=artist" class="mx-1 hover:text-red-200">{$lang.artists}</a>
+                    </li>
+                    <li>
+                        <a href="tags.php?category=character" class="mx-1 hover:text-red-200">{$lang.characters}</a>
+                    </li>
+                    <li>
+                        <a href="tags.php?category=copyright" class="mx-1 hover:text-red-200">{$lang.copyrights}</a>
+                    </li>
+                    <li>
+                        <a href="tags.php?category=meta" class="mx-1 hover:text-red-200">{$lang.metas}</a>
+                    </li>
+                {elseif $pages.isForums}
+                    <li>
+                        <a href="forums.php" class="mx-1 hover:text-red-200">{$lang.forums}</a>
+                    </li>
                 {elseif $pages.isWiki}
                     <li>
                         <a href="wiki.php" class="mx-1 hover:text-red-200">{$lang.all_terms}</a>
