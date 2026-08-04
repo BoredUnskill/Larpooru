@@ -23,7 +23,7 @@
         </div>
     </form>
     <p class="mt-1 text-center text-gray-500 text-sm animate__animated animate__fadeInUp">
-        <a href="https://github.com/s-vhs/Xenooru" target="_blank" class="underline">{$lang.running_xenooru}
+        <a href="https://github.com/BoredUnskill/Larpooru" target="_blank" class="underline">{$lang.running_xenooru}
             {$version}</a> |
         {$lang.total_unique_visits}: {$totalvisits}
     </p>
